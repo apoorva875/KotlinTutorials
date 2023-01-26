@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd79b08a-8ae9-4f73-ae4c-1fb537828fe2" name="Changes" comment="kotlin!!">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/4.kt" afterDir="false" />
+    <list default="true" id="cd79b08a-8ae9-4f73-ae4c-1fb537828fe2" name="Changes" comment="4th problem">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/5.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674328972824</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="4th problem">
+      <created>1674721288305</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674721288305</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +130,7 @@
     <MESSAGE value="Initial version" />
     <MESSAGE value="first program" />
     <MESSAGE value="kotlin!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="kotlin!!" />
+    <MESSAGE value="4th problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="4th problem" />
   </component>
 </project>
