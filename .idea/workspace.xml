@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd79b08a-8ae9-4f73-ae4c-1fb537828fe2" name="Changes" comment="6th problem">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/10.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/7.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/8.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/9.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/5.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-    </list>
+    <list default="true" id="cd79b08a-8ae9-4f73-ae4c-1fb537828fe2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
