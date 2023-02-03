@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd79b08a-8ae9-4f73-ae4c-1fb537828fe2" name="Changes" comment="4th problem">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/6.kt" afterDir="false" />
+    <list default="true" id="cd79b08a-8ae9-4f73-ae4c-1fb537828fe2" name="Changes" comment="6th problem">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/9.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/5.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -113,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674721288305</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="6th problem">
+      <created>1674970734514</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674970734514</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +146,7 @@
     <MESSAGE value="first program" />
     <MESSAGE value="kotlin!!" />
     <MESSAGE value="4th problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="4th problem" />
+    <MESSAGE value="6th problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="6th problem" />
   </component>
 </project>
